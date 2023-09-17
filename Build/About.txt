@@ -1,0 +1,26 @@
+Face Recognition Project
+
+This project aims to provide a real-time face recognition system using OpenCV. It uses the Haar cascade classifier to detect human faces in live video feed from a camera.
+
+Files:
+- face_recognition.py: Main script for face detection and recognition.
+- camera.py: Script to open the camera and display the video feed.
+- haarcascade_frontalface_default.xml: Pre-trained model for face detection.
+
+Usage:
+1. Install the required dependencies: OpenCV.
+2. Place the "haarcascade_frontalface_default.xml" file in the "Models" folder.
+3. Run the "face_recognition.py" script to start the face recognition system.
+
+Created by:
+AI Code Generator(ChatGPT), Modified by me(Manca). Here is link to use it: https://flowgpt.com/p/github-user
+
+Note: Make sure you have a working camera connected to your computer.
+
+Feel free to explore and modify the code as per your requirements.
+
+For any questions or support, please contact:
+Email: epicnova0042@gmail.com
+Phone: 0882-0000-42409
+
+Happy face recognition!
